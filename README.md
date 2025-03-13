@@ -14,3 +14,5 @@
 
 
 After that, you can execute any of these files.
+
+## "If there are environment variables, make sure to adjust them according to your setup before running the program."
